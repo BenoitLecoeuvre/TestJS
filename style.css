@@ -7,3 +7,9 @@ body {
     font-family: 'Ubuntu';
     text-align: center;
 }
+
+.user {
+    border: solid 7px black;
+    margin-top: 15px;
+    border-radius: 5px
+}
