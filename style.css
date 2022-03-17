@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(170, 165, 202);
+    font-family: 'Ubuntu';
+    text-align: center;
+}
